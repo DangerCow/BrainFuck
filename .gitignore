@@ -1,5 +1,5 @@
 .vscode
 .config
-.csproj
+BrainFuck.csproj
 bin
 obj
